@@ -259,15 +259,19 @@ body {
   color: #fff;
 }
 
+.footer .social a i{
+  margin: 20px;
+  border: 1px solid;
+  padding: 1rem;
+  border-radius: 50%;
+}
+
 .footer .social i{
   font-size: 2rem;
   transition: .3s;
-}
-
-.footer .social a{
-  margin: 20px;
+  
 }
 
 .footer .social i:hover{
-  color: #fff;
+  color: #ff7f50;
 }
